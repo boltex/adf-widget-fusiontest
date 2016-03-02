@@ -3,12 +3,16 @@
 MAKE SURE TO ADD THOSE FILES IN THE COMPONENTS FOLDER
 =====================================================
 under components/fusioncharts:
+
 angular-fusioncharts.min.js
+
 fusioncharts.charts.js
+
 fusioncharts.js
+
 fusioncharts.widgets.js
 
-fusiontest widget for the [angular-dashboard-framework](https://github.com/sdorra/angular-dashboard-framework).
+##fusiontest widget for the [angular-dashboard-framework](https://github.com/sdorra/angular-dashboard-framework).
 
 ## Build
 
