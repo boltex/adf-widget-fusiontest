@@ -3,6 +3,7 @@
 MAKE SURE TO ADD THOSE FILES IN THE COMPONENTS FOLDER
 =====================================================
 under components/fusioncharts:
+------------------------------
 
 angular-fusioncharts.min.js
 
